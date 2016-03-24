@@ -1,2 +1,2 @@
 # SwMake
-Test Project
+Test project for mesh editing
