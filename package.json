@@ -1,0 +1,24 @@
+{
+  "name": "sw_make",
+  "version": "0.0.1",
+  "description": "Sample of application for mesh editing",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbidenko/SwMake.git"
+  },
+  "keywords": [
+    "mesh",
+    "editor"
+  ],
+  "author": "Pavel Bidenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbidenko/SwMake/issues"
+  },
+  "homepage": "https://github.com/pbidenko/SwMake#readme"
+}
